@@ -1,0 +1,15 @@
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\bin\Debug\net7.0\CircleDraw.exe
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\bin\Debug\net7.0\CircleDraw.deps.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\bin\Debug\net7.0\CircleDraw.runtimeconfig.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\bin\Debug\net7.0\CircleDraw.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\bin\Debug\net7.0\CircleDraw.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\obj\Debug\net7.0\CircleDraw.csproj.AssemblyReference.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\obj\Debug\net7.0\CircleDraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\obj\Debug\net7.0\CircleDraw.AssemblyInfoInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\obj\Debug\net7.0\CircleDraw.AssemblyInfo.cs
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\obj\Debug\net7.0\CircleDraw.csproj.CoreCompileInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\obj\Debug\net7.0\CircleDraw.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\obj\Debug\net7.0\refint\CircleDraw.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\obj\Debug\net7.0\CircleDraw.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\obj\Debug\net7.0\CircleDraw.genruntimeconfig.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\CircleDraw\obj\Debug\net7.0\ref\CircleDraw.dll
