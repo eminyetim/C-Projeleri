@@ -1,0 +1,15 @@
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\bin\Debug\net7.0\TriangleDraw.exe
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\bin\Debug\net7.0\TriangleDraw.deps.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\bin\Debug\net7.0\TriangleDraw.runtimeconfig.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\bin\Debug\net7.0\TriangleDraw.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\bin\Debug\net7.0\TriangleDraw.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\obj\Debug\net7.0\TriangleDraw.csproj.AssemblyReference.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\obj\Debug\net7.0\TriangleDraw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\obj\Debug\net7.0\TriangleDraw.AssemblyInfoInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\obj\Debug\net7.0\TriangleDraw.AssemblyInfo.cs
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\obj\Debug\net7.0\TriangleDraw.csproj.CoreCompileInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\obj\Debug\net7.0\TriangleDraw.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\obj\Debug\net7.0\refint\TriangleDraw.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\obj\Debug\net7.0\TriangleDraw.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\obj\Debug\net7.0\TriangleDraw.genruntimeconfig.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\TriangleDraw\obj\Debug\net7.0\ref\TriangleDraw.dll
