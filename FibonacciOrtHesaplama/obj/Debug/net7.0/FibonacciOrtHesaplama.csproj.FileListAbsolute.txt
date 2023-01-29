@@ -1,0 +1,15 @@
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\bin\Debug\net7.0\FibonacciOrtHesaplama.exe
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\bin\Debug\net7.0\FibonacciOrtHesaplama.deps.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\bin\Debug\net7.0\FibonacciOrtHesaplama.runtimeconfig.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\bin\Debug\net7.0\FibonacciOrtHesaplama.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\bin\Debug\net7.0\FibonacciOrtHesaplama.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\obj\Debug\net7.0\FibonacciOrtHesaplama.csproj.AssemblyReference.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\obj\Debug\net7.0\FibonacciOrtHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\obj\Debug\net7.0\FibonacciOrtHesaplama.AssemblyInfoInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\obj\Debug\net7.0\FibonacciOrtHesaplama.AssemblyInfo.cs
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\obj\Debug\net7.0\FibonacciOrtHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\obj\Debug\net7.0\FibonacciOrtHesaplama.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\obj\Debug\net7.0\refint\FibonacciOrtHesaplama.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\obj\Debug\net7.0\FibonacciOrtHesaplama.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\obj\Debug\net7.0\FibonacciOrtHesaplama.genruntimeconfig.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\FibonacciOrtHesaplama\obj\Debug\net7.0\ref\FibonacciOrtHesaplama.dll
