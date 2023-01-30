@@ -1,0 +1,15 @@
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\bin\Debug\net7.0\karakteriTerstenYazdirma.exe
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\bin\Debug\net7.0\karakteriTerstenYazdirma.deps.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\bin\Debug\net7.0\karakteriTerstenYazdirma.runtimeconfig.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\bin\Debug\net7.0\karakteriTerstenYazdirma.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\bin\Debug\net7.0\karakteriTerstenYazdirma.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\obj\Debug\net7.0\karakteriTerstenYazdirma.csproj.AssemblyReference.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\obj\Debug\net7.0\karakteriTerstenYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\obj\Debug\net7.0\karakteriTerstenYazdirma.AssemblyInfoInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\obj\Debug\net7.0\karakteriTerstenYazdirma.AssemblyInfo.cs
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\obj\Debug\net7.0\karakteriTerstenYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\obj\Debug\net7.0\karakteriTerstenYazdirma.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\obj\Debug\net7.0\refint\karakteriTerstenYazdirma.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\obj\Debug\net7.0\karakteriTerstenYazdirma.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\obj\Debug\net7.0\karakteriTerstenYazdirma.genruntimeconfig.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\karakteriTerstenYazdirma\obj\Debug\net7.0\ref\karakteriTerstenYazdirma.dll
