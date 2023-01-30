@@ -1,0 +1,15 @@
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\bin\Debug\net7.0\stringHomework.exe
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\bin\Debug\net7.0\stringHomework.deps.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\bin\Debug\net7.0\stringHomework.runtimeconfig.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\bin\Debug\net7.0\stringHomework.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\bin\Debug\net7.0\stringHomework.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\obj\Debug\net7.0\stringHomework.csproj.AssemblyReference.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\obj\Debug\net7.0\stringHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\obj\Debug\net7.0\stringHomework.AssemblyInfoInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\obj\Debug\net7.0\stringHomework.AssemblyInfo.cs
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\obj\Debug\net7.0\stringHomework.csproj.CoreCompileInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\obj\Debug\net7.0\stringHomework.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\obj\Debug\net7.0\refint\stringHomework.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\obj\Debug\net7.0\stringHomework.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\obj\Debug\net7.0\stringHomework.genruntimeconfig.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\stringHomework\obj\Debug\net7.0\ref\stringHomework.dll
