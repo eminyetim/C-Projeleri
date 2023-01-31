@@ -1,0 +1,15 @@
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\bin\Debug\net7.0\AlanHesapla.exe
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\bin\Debug\net7.0\AlanHesapla.deps.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\bin\Debug\net7.0\AlanHesapla.runtimeconfig.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\bin\Debug\net7.0\AlanHesapla.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\bin\Debug\net7.0\AlanHesapla.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\obj\Debug\net7.0\AlanHesapla.csproj.AssemblyReference.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\obj\Debug\net7.0\AlanHesapla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\obj\Debug\net7.0\AlanHesapla.AssemblyInfoInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\obj\Debug\net7.0\AlanHesapla.AssemblyInfo.cs
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\obj\Debug\net7.0\AlanHesapla.csproj.CoreCompileInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\obj\Debug\net7.0\AlanHesapla.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\obj\Debug\net7.0\refint\AlanHesapla.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\obj\Debug\net7.0\AlanHesapla.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\obj\Debug\net7.0\AlanHesapla.genruntimeconfig.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\AlanHesapla\obj\Debug\net7.0\ref\AlanHesapla.dll
