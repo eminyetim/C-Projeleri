@@ -1,0 +1,15 @@
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\bin\Debug\net7.0\sesizHarfBulma.exe
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\bin\Debug\net7.0\sesizHarfBulma.deps.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\bin\Debug\net7.0\sesizHarfBulma.runtimeconfig.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\bin\Debug\net7.0\sesizHarfBulma.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\bin\Debug\net7.0\sesizHarfBulma.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\obj\Debug\net7.0\sesizHarfBulma.csproj.AssemblyReference.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\obj\Debug\net7.0\sesizHarfBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\obj\Debug\net7.0\sesizHarfBulma.AssemblyInfoInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\obj\Debug\net7.0\sesizHarfBulma.AssemblyInfo.cs
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\obj\Debug\net7.0\sesizHarfBulma.csproj.CoreCompileInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\obj\Debug\net7.0\sesizHarfBulma.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\obj\Debug\net7.0\refint\sesizHarfBulma.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\obj\Debug\net7.0\sesizHarfBulma.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\obj\Debug\net7.0\sesizHarfBulma.genruntimeconfig.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\sesizHarfBulma\obj\Debug\net7.0\ref\sesizHarfBulma.dll
