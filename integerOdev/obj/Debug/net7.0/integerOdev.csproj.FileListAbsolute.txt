@@ -1,0 +1,15 @@
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\bin\Debug\net7.0\integerOdev.exe
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\bin\Debug\net7.0\integerOdev.deps.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\bin\Debug\net7.0\integerOdev.runtimeconfig.json
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\bin\Debug\net7.0\integerOdev.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\bin\Debug\net7.0\integerOdev.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\obj\Debug\net7.0\integerOdev.csproj.AssemblyReference.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\obj\Debug\net7.0\integerOdev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\obj\Debug\net7.0\integerOdev.AssemblyInfoInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\obj\Debug\net7.0\integerOdev.AssemblyInfo.cs
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\obj\Debug\net7.0\integerOdev.csproj.CoreCompileInputs.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\obj\Debug\net7.0\integerOdev.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\obj\Debug\net7.0\refint\integerOdev.dll
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\obj\Debug\net7.0\integerOdev.pdb
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\obj\Debug\net7.0\integerOdev.genruntimeconfig.cache
+C:\Users\eminy\OneDrive\Masaüstü\Patika.dev\c#Projeleri\integerOdev\obj\Debug\net7.0\ref\integerOdev.dll
