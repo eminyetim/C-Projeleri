@@ -19,7 +19,7 @@ namespace AlanHesapla
             System.Console.WriteLine("Çevre :" + cevre);
         }
 
-        public static void Kare()
+        public static void Kare() 
         {
             
             System.Console.WriteLine("Lütfen Kenari Giriniz:");

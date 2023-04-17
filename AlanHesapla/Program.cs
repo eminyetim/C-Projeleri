@@ -8,7 +8,7 @@ namespace AlanHesapla
         {
             System.Console.WriteLine("(1) Kare");
             System.Console.WriteLine("(2) Dikdörtgen");
-            System.Console.WriteLine("(3) Üçgen");
+            System.Console.WriteLine("(3) Üçgen");  
             System.Console.WriteLine("(4) Daire");  
             System.Console.WriteLine("Lütfen Şekil Seçiniz");
             System.Console.WriteLine("(0) Çikiş");
