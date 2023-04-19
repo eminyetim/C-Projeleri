@@ -8,7 +8,7 @@ namespace AlanHesapla
         {
             System.Console.WriteLine("Lütfen Uzun Kenari Giriniz:");
             int kenarUzun = int.Parse(Console.ReadLine());
-
+  
             System.Console.WriteLine("Lütfen Kisa Kenari Giriniz :");
             int kisaKenar = int.Parse(Console.ReadLine());
 
